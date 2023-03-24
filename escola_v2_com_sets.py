@@ -1,6 +1,6 @@
 
 
-__version__ = "0.1.1"
+__version__ = "0.1.2"
 __author__ = "Paulo Felix"
 
 sala_1 = ["Antonio", "Joaquim", "Pedro", "Maria", "Gustavo"]
